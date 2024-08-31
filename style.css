@@ -1,0 +1,16 @@
+CSS (in style.css file):
+
+body {
+	font-family: Arial, sans-serif;
+}
+#morse-code-table {
+	border-collapse: collapse;
+	width: 50%;
+	margin: 20px auto;
+}
+th, td {
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-align: center;
+}
+
